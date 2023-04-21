@@ -1,5 +1,5 @@
 <a href="#" target="_blank">
-  <img src="svg/baoandev.svg" width="1200" alt="baoandev" />
+  <img src="baoandev.svg" width="1200" alt="baoandev" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
