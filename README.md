@@ -30,14 +30,16 @@
 <h2 align="center">🔥 GitHub Stats 🔥</h2>
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
-<div align=center>
-    <a href="#" title="Trungquandev">
-        <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=trungquandev&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
-        />
-    </a>
-    <a href="#" title="Trungquandev">
-        <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=trungquandev&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+<div 
+<table style="width:100%;">
+  <tr>
+    <td>
+      <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoandev&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="Baoandev" width="100%"/>
+      <img width="430" align="right" src="https://github-readme-stats.vercel.app/api?username=Baoandev&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=THAI%20BAO%20AN's%20GitHub%20Stats" alt="Baoandev" width="100%"/>
+    </td>
+   </tr>
+</table>
+
 </div>
 
 <br>
