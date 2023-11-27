@@ -35,7 +35,7 @@
   <tr>
     <td>
       <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baoandev&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Most%20Used%20Languages" alt="Baoandev" width="100%"/>
-      <img width="430" align="right" src="https://github-readme-stats.vercel.app/api?username=Baoandev&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=THAI%20BAO%20AN's%20GitHub%20Stats" alt="Baoandev" width="100%"/>
+      <img width="430" align="right" src="https://github-readme-stats.vercel.app/api?username=Baoandev&hide=contribs,prs&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=THAI%20BAO%20AN's%20GitHub%20Stats" alt="Baoandev" width="100%"/>
     </td>
    </tr>
 </table>
